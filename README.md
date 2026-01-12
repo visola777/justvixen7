@@ -1,6 +1,6 @@
 # 👩‍💻 Visola - Backend Developer
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/visola777.svg)](https://user-badge.committers.top/uzbekistan/visola777)
-[![committers.top badge](https://user-badge.committers.top/uzbekistan_public/USERNAME.svg)](https://user-badge.committers.top/uzbekistan_public/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/uzbekistan_public/visola777.svg)](https://user-badge.committers.top/uzbekistan_public/visola777)
 
 > "I build the logic behind the scenes so everything just works." 🔧🖤
 
